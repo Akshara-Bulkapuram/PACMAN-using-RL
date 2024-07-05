@@ -9,11 +9,14 @@ An intelligent PACMAN agent built using Reinforcement learning.
 DeepMind published its famous paper Playing Atari with Deep Reinforcement Learning, in which a new algorithm called DQN was implemented. It showed that an AI agent could learn to play games by simply watching the screen without any prior knowledge about the game. Also, I have added a few enhancement to the vanilla DQN from various papers and tested it on the MsPacman-v4 OpenAI's environment.
 
 
-![image](https://github.com/Akshara-Bulkapuram/PACMAN-using-RL/assets/94600166/50d6e96a-2ca3-4cd8-a8b3-0194002fb261)
+
+<img src="https://github.com/Akshara-Bulkapuram/PACMAN-using-RL/assets/94600166/50d6e96a-2ca3-4cd8-a8b3-0194002fb261" width="256"  align="middle">
+<hr />
 
 ## Demo
 
-<img src="./assets/overview.gif" width="256" align="middle">
+
+<img src="https://github.com/Akshara-Bulkapuram/PACMAN-using-RL/assets/94600166/b1e81b01-0d1d-4e08-b5c7-852a61c367f4"  align="middle">
 <hr />
 
 ## Preprocessing
